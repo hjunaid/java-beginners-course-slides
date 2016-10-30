@@ -1,9 +1,9 @@
 {
-  "name": "reveal.js",
+  "name": "Java Beginners Course Slides",
   "version": "3.3.0",
   "description": "The HTML Presentation Framework",
   "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "subdomain": "Java Begineers Course",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
